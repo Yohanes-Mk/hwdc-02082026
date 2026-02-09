@@ -1,0 +1,65 @@
+{
+  "events": [
+    {
+      "id": "event_1",
+      "title": "Microsoft - Strategy Discussion",
+      "start": "2026-02-10T10:00:00-05:00",
+      "end": "2026-02-10T10:30:00-05:00",
+      "attendees": [
+        "satya.nadella@microsoft.com",
+        "jon@example.com"
+      ],
+      "location": "Microsoft Teams",
+      "description": "High-level discussion on AI strategy and partnerships."
+    },
+    {
+      "id": "event_2",
+      "title": "OpenAI - Product Sync",
+      "start": "2026-02-10T14:00:00-05:00",
+      "end": "2026-02-10T14:45:00-05:00",
+      "attendees": [
+        "sam.altman@openai.com",
+        "greg.brockman@openai.com",
+        "jon@example.com"
+      ],
+      "location": "Zoom",
+      "description": "Review roadmap and upcoming releases."
+    },
+    {
+      "id": "event_3",
+      "title": "NVIDIA - Hardware Planning Call",
+      "start": "2026-02-11T09:00:00-05:00",
+      "end": "2026-02-11T09:30:00-05:00",
+      "attendees": [
+        "jensen.huang@nvidia.com",
+        "jon@example.com"
+      ],
+      "location": "Google Meet",
+      "description": "Discussion about GPU supply and future hardware needs."
+    },
+    {
+      "id": "event_4",
+      "title": "Google DeepMind - Research Meeting",
+      "start": "2026-02-11T13:00:00-05:00",
+      "end": "2026-02-11T14:00:00-05:00",
+      "attendees": [
+        "demis.hassabis@google.com",
+        "jon@example.com"
+      ],
+      "location": "Google Meet",
+      "description": "Research collaboration discussion."
+    },
+    {
+      "id": "event_5",
+      "title": "Meta - AI Infrastructure Review",
+      "start": "2026-02-12T11:00:00-05:00",
+      "end": "2026-02-12T12:00:00-05:00",
+      "attendees": [
+        "mark.zuckerberg@meta.com",
+        "jon@example.com"
+      ],
+      "location": "Workplace Call",
+      "description": "Infrastructure scaling and AI deployment planning."
+    }
+  ]
+}
